@@ -1,4 +1,5 @@
 #include <libbase/stats.h>
+
 #include <libutils/misc.h>
 
 #include <libgpu/vulkan/tests/test_utils.h>
@@ -10,7 +11,6 @@
 
 #include "vk/defines.h"
 #include <nlohmann/json.hpp>
-
 #include <fstream>
 
 
